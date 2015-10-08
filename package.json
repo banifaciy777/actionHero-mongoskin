@@ -28,7 +28,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "actionhero": "~7.0.0",
-    "mongoskin": "~0.6.1",
+    "mongoskin": "~2.0.0",
     "validator": "~2.0.0"
   },
   "devDependencies": {
